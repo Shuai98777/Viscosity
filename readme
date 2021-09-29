@@ -1,0 +1,5 @@
+pkl_model = 'VIS_FCST.pickle' : the forecast file that already trained
+load_data: feed the data that need to forecast
+model: forecast and get the result
+result: get a viscosity
+test.csv: a sample for the data that need to feed to this model
